@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "templates",
+			"path": "../Downloads/flask-survey-solution/basic/templates"
+		},
+		{
+			"name": "flask_surv",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
